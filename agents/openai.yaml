@@ -1,0 +1,7 @@
+interface:
+  display_name: "Modo Analista de Requisitos"
+  short_description: "Elabora PRD, REQ, SCR e cards de bugs"
+  default_prompt: "Use $modo-analista-de-requisitos para analisar o acervo e elaborar uma documentação por vez."
+
+policy:
+  allow_implicit_invocation: true
